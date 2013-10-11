@@ -12,7 +12,7 @@ Features to add:
 -modularize
 -crawl BU website for graduation GPA requirements (woahhh)
 
-gpa gui branch
+flesh_out branch - flesh out logic and error checking
 
 ******************************************************************/
 
