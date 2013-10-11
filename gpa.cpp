@@ -62,6 +62,6 @@ if( gpa_need > 4.0)
 	std::cout << "Sorry bro/bra, can't be done" << std::endl;
 //GUI ENHANCEMENT
 
-std::cout <<"<(^_^)> << std::endl;
+std::cout <<"<(^_^)>" << std::endl;
 system("pause");
 }
