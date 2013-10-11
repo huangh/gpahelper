@@ -12,7 +12,7 @@ Features to add:
 -modularize
 -crawl BU website for graduation GPA requirements (woahhh)
 
-gpa gui branch
+gpa gui branch - flesh out the gui
 
 ******************************************************************/
 
@@ -60,6 +60,8 @@ std::cout << "The GPA you need to get to achieve a " << gpa_want << " overall GP
 
 if( gpa_need > 4.0)
 	std::cout << "Sorry bro/bra, can't be done" << std::endl;
+//GUI ENHANCEMENT
 
+std::cout <<"<(^_^)> << std::endl;
 system("pause");
 }
